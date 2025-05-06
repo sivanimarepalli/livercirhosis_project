@@ -1,5 +1,8 @@
-**Cirrhosis Disease Prediction: Early Detection with Machine Learning
-Welcome to the Cirrhosis Disease Prediction project! 🚀**
+**Cirrhosis Disease Prediction: Early Detection with Machine Learning**
+
+**Welcome to the Cirrhosis Disease Prediction project! 🚀**
+
+
 This project is a deep dive into using machine learning to predict the stages of cirrhosis, a serious liver condition, based on clinical data. The goal is to provide an intelligent, data-driven approach to assist healthcare professionals in identifying patients at risk.
 
 🔬 **Project Overview**
